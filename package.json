@@ -1,0 +1,28 @@
+{
+  "name": "rolling-string",
+  "version": "1.0.0",
+  "description": "a rolling string function, type caesar cipher",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonstevet/Rolling-String-Caesar-Cipher.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js"
+  ],
+  "author": "JonSteve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonstevet/Rolling-String-Caesar-Cipher/issues"
+  },
+  "homepage": "https://github.com/jonstevet/Rolling-String-Caesar-Cipher#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3"
+  }
+}
