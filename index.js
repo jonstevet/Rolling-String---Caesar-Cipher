@@ -21,4 +21,4 @@ export default function rollinString(x, y){
     return result.pop();
 }
 
-console.log(rollinString('abc', ['0 0 L','0 0 R']))
+console.log(rollinString('abc', ['0 0 L','0 0 R', '1 1 L']))
